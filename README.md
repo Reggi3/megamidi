@@ -22,6 +22,6 @@ You will need:
 latest Midi Library
 dualMocoLUFA firmware flashed onto the mega2560 r3, download here http://morecatlab.akiba.coocan.jp/lab/index.php/aruino/midi-firmware-for-arduino-uno-moco/?lang=en)
 Arduino 1.5.5-r2 software
-If you use the LED code you will most likely need an external power supply
+If you use the LED code you will need the adafruit neoPixel library and most likely an external power supply
 
 As with any other arduino code, open the .ino in the arduino IDE, compile it and upload it to your mega2560, then burn the dualMocoLUFA firmware to the atmega16u2 on the arduino mega board.
